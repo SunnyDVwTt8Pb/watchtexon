@@ -1,0 +1,29 @@
+/* In Header.css */
+
+.header {
+    background: linear-gradient(90deg,red,green,yellow);
+    color: rgb(9, 7, 7);
+    padding: 100px;
+    text-align: center;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header-image {
+    max-width: 20%;
+    border-radius: 20px;
+    border-style: solid;
+
+    border-width: 5px;
+    border-image: linear-gradient(90deg,blue,yellow) 1;
+    margin-left: 0;
+  }
+  
+  .header-name {
+    font-size: 50px; /* Adjust the font size as needed */
+  }
+  
