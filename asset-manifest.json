@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/watchtexon/static/css/main.eaf07b3b.css",
+    "main.js": "/watchtexon/static/js/main.2cb65170.js",
+    "static/js/787.1ed0c42c.chunk.js": "/watchtexon/static/js/787.1ed0c42c.chunk.js",
+    "static/media/me.jpg": "/watchtexon/static/media/me.93efe94134fb641d5076.jpg",
+    "index.html": "/watchtexon/index.html",
+    "main.eaf07b3b.css.map": "/watchtexon/static/css/main.eaf07b3b.css.map",
+    "main.2cb65170.js.map": "/watchtexon/static/js/main.2cb65170.js.map",
+    "787.1ed0c42c.chunk.js.map": "/watchtexon/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf07b3b.css",
+    "static/js/main.2cb65170.js"
+  ]
+}
